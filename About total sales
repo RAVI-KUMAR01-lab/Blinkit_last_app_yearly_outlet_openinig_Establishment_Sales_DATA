@@ -1,0 +1,11 @@
+🛒 Blinkit Sales Growth Analysis Dashboard
+
+This project analyzes Blinkit grocery retail sales data using Power BI to understand key factors contributing to sales growth and changing customer purchase behavior. The dashboard was designed to track revenue performance, product demand patterns, and outlet-level trends to support data-driven retail decisions.
+
+The analysis revealed a noticeable increase in overall sales driven by rising demand for essential daily-use products such as fruits, vegetables, packaged foods, and household items. These categories showed consistent contribution to total revenue, indicating stable consumer purchasing cycles and repeat buying behavior. Another major factor influencing sales growth was the increasing customer preference for low-fat and healthy diet items. Products positioned as healthier alternatives recorded higher ratings and stronger sales performance compared to regular items, reflecting a shift toward health-conscious consumption patterns.
+
+Outlet characteristics also played an important role in revenue improvement. Medium-sized outlets and Tier-3 locations demonstrated higher sales volume, suggesting better product availability, localized demand alignment, and efficient distribution coverage. Seasonal trends and time-based analysis further highlighted peak ordering periods, which contributed to short-term revenue spikes and overall sales improvement.
+
+Through interactive KPI cards, category-wise visuals, and outlet performance comparisons, the dashboard enables clear identification of growth opportunities and high-performing product segments. Data cleaning and transformation were performed using Power Query, while DAX measures were created to calculate total sales, average ratings, and category contribution metrics.
+
+This project demonstrates the ability to convert raw retail data into meaningful insights that explain sales growth drivers, customer demand shifts, and operational performance trends. It highlights practical skills in business intelligence, data visualization, and retail analytics, which are essential for data analyst and business analyst roles.
